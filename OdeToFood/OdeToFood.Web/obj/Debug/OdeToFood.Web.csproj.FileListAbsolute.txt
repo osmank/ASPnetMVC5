@@ -79,3 +79,14 @@ C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\obj\Debug\OdeTo
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.pdb
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.Mvc.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
