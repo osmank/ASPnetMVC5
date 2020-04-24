@@ -90,3 +90,9 @@ C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Int
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
