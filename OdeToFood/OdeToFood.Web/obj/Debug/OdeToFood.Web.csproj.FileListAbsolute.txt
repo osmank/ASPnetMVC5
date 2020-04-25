@@ -96,3 +96,6 @@ C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Net.Http.Formatting.xml
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.xml
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
