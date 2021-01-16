@@ -99,3 +99,8 @@ C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\System.Web.
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.pdb
 C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll.config
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\DEVEL\Projects\GitProjects\ASPnetMVC5\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
