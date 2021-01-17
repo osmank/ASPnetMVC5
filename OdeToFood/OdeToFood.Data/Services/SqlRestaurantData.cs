@@ -17,6 +17,7 @@ namespace OdeToFood.Data.Services
             this.db = db;
         }
 
+
         public void Add(Restaurant restaurant)
         {
             db.Restaurants.Add(restaurant);
